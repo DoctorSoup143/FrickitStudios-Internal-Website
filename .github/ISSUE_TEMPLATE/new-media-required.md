@@ -19,7 +19,7 @@ assignees: DoctorSoup143
 ---
 
 **Please mark the importance of the media requested:**
-[ ] - Urgent
-[ ] - High
-[ ] - Normal
-[ ] - Low
+- [ ] Urgent
+- [ ] High
+- [ ] Normal
+- [ ] Low
