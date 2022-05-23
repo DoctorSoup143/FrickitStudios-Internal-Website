@@ -8,9 +8,9 @@ assignees: DoctorSoup143
 ---
 
 **Describe the page you would like to see added.**
-Text.
+[A description of the new webpage.]
 
 ---
  
 **What information would you like to see added on the page?**
-Text
+[The information that would be listed on the page.]

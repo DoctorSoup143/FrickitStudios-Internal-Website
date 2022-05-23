@@ -9,17 +9,17 @@ assignees: DoctorSoup143
 ---
 
 **What page is the new media for?**
-[Text.]
+[Describe what the new media is for and why it will benefit.]
 
 ---
 
 **Describe the new media you require.**
-[Text.]
+[Describe the image, video, etc. you require. Attach an image to this issue if necessary.]
 
 ---
 
 **Please mark the importance of the media requested:**
-(To mark a box, please put an x between the brackets.)
+(To mark a box, please put an x between the brackets and remove the space.)
 - [ ] Urgent
 - [ ] High
 - [ ] Normal

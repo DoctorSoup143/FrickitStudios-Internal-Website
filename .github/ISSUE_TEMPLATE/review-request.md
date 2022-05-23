@@ -8,19 +8,18 @@ assignees: DoctorSoup143
 ---
 
 **What in this update is new?**
-[Text.]
-
+[A list of additions in the new site update.]
 ---
 
 **What in this update was changed?**
-[Text.]
+[A list of changes in the new site update.]
 
 ---
 
 **What in this update was removed?**
-[Text.]
+[A list of removals in the new site update.]
 
 ---
 
 **Important notes:**
-[Text.]
+[A list of important notes in the new site update.]
