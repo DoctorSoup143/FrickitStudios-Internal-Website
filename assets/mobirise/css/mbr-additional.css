@@ -3617,69 +3617,21 @@ a {
     left: -1rem;
   }
 }
-.cid-t6B6WsAwAE {
+.cid-t6RslEeBht {
   padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #232323;
+  padding-bottom: 2rem;
+  background-color: #353535;
 }
-.cid-t6B6WsAwAE .mbr-fallback-image.disabled {
-  display: none;
+.cid-t6RslEeBht blockquote {
+  border-color: #ff7200;
+  border-radius: 4px;
+  background-color: #0f0f0f;
 }
-.cid-t6B6WsAwAE .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-t6B6WsAwAE .bg-twitter {
-  background: #1da1f2;
+.cid-t6RslEeBht .mbr-section-title {
   color: #ffffff;
 }
-.cid-t6B6WsAwAE .bg-twitter:hover {
-  background: #0c85d0;
-}
-.cid-t6B6WsAwAE .bg-instagram {
-  background: #f00075;
+.cid-t6RslEeBht .mbr-text {
   color: #ffffff;
-}
-.cid-t6B6WsAwAE .bg-instagram:hover {
-  background: #bd005c;
-}
-.cid-t6B6WsAwAE .bg-youtube {
-  background: #ff0000;
-  color: #ffffff;
-}
-.cid-t6B6WsAwAE .bg-youtube:hover {
-  background: #cc0000;
-}
-.cid-t6B6WsAwAE .bg-twitch {
-  background: #9146ff;
-  color: #ffffff;
-}
-.cid-t6B6WsAwAE .bg-twitch:hover {
-  background: #7313ff;
-}
-.cid-t6B6WsAwAE .iconfont-wrapper {
-  display: inline-block;
-  font-size: 32px;
-  border-radius: 50%;
-  width: 55px;
-  height: 55px;
-  line-height: 55px;
-  text-align: center;
-  transition: all 0.3s ease-in-out;
-}
-.cid-t6B6WsAwAE [class^="socicon-"]:before,
-.cid-t6B6WsAwAE [class*=" socicon-"]:before {
-  line-height: 55px;
-  padding: .6rem;
-}
-.cid-t6B6WsAwAE .mbr-section-title,
-.cid-t6B6WsAwAE .social-list {
-  color: #fafafa;
 }
 .cid-t6B6WsURtt {
   padding-top: 2rem;
@@ -4110,29 +4062,13 @@ a {
     left: -1rem;
   }
 }
-.cid-t6NZBmPtlP {
-  padding-top: 5rem;
-  padding-bottom: 2rem;
-  background-color: #353535;
-}
-.cid-t6NZBmPtlP blockquote {
-  border-color: #ff7200;
-  border-radius: 4px;
-  background-color: #0f0f0f;
-}
-.cid-t6NZBmPtlP .mbr-section-title {
-  color: #ffffff;
-}
-.cid-t6NZBmPtlP .mbr-text {
-  color: #ffffff;
-}
 .cid-t6B9SHU9N4 {
   padding-top: 4rem;
   padding-bottom: 5rem;
   background-color: #353535;
 }
 .cid-t6B9SHU9N4 blockquote {
-  border-color: #ff7200;
+  border-color: #ffffff;
   border-radius: 4px;
   background-color: #0f0f0f;
 }
