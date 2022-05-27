@@ -3604,8 +3604,24 @@ a {
     left: -1rem;
   }
 }
-.cid-t6RslEeBht {
+.cid-t6ZLwihGUt {
   padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #353535;
+}
+.cid-t6ZLwihGUt blockquote {
+  border-color: #ff7200;
+  border-radius: 4px;
+  background-color: #0f0f0f;
+}
+.cid-t6ZLwihGUt .mbr-section-title {
+  color: #ffffff;
+}
+.cid-t6ZLwihGUt .mbr-text {
+  color: #ffffff;
+}
+.cid-t6RslEeBht {
+  padding-top: 2rem;
   padding-bottom: 2rem;
   background-color: #353535;
 }
